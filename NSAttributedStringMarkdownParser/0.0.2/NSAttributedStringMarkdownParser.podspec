@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.license      = 'Apache License, Version 2.0'
   s.author       = { "Jeff Verkoeyen" => "jverkoey@gmail.com" }
   s.platform     = :ios
-  s.source       = { :git => "https://github.com/StudentIT/NSAttributedStringMarkdownParser.git", :commit => "9cd63fe728d798ea1a19def01c834b048b8bb180" }
+  s.source       = { :git => "https://github.com/StudentIT/NSAttributedStringMarkdownParser.git", :commit => "5d9db8abb145c4397b812b70612652d618592114" }
   s.source_files = 'src/**/*.{h,m}'
   s.dependency 'fmemopen'
   s.requires_arc = true
